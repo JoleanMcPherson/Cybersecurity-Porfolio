@@ -1,4 +1,4 @@
-# Cybersecurity-Porfolio
+# Cybersecurity-Porfolio: Honeypot
 
 1) Created custom Python script for honeypot, listening on ports 5900, 25565, and 8888.
 2) Ran honeypot on a Linux Server in KANO Cloud.
