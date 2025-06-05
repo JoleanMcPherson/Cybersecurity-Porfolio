@@ -8,7 +8,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 - Simulated a public-facing server to capture malicious activity
 - Analyzed attacker behavior via log files
 - Tools used: Ubuntu, Docker, ELK stack
-- [View full project write-up »](#) ← (Add real link later)
+- [View full project write-up »](https://github.com/JoleanMcPherson/Cybersecurity-Porfolio/blob/f2ffa354b7b83aebcf1d68a36f7e2ffb6adf4970/Honeypot)
 
 ---
 
