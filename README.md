@@ -16,7 +16,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 - Led a mock incident response simulation with a small team
 - Aligned responses to NIST 800-61 incident lifecycle
 - Documented lessons learned and mitigation strategies
-- [Read the tabletop report »](#)
+- [Read the tabletop report »](https://github.com/JoleanMcPherson/Cybersecurity-Porfolio/blob/05dd8f230dcd6d55b08e33a575aa20140ebbe09c/Tabletop%20Exercise)
 
 ---
 
