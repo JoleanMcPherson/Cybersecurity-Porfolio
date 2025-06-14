@@ -32,7 +32,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 - Automated detection of phishing attempts by parsing and analyzing email headers
 - Identified spoofed domains, failed SPF/DKIM checks, and suspicious IPs
 - Built using Python to improve email security protocols and SOC efficiency
-- [Explore the phishing project »] (https://github.com/JoleanMcPherson/Cybersecurity-Porfolio/blob/d2a810b756a0ba51a2d49579ce9cd4c0a04b8722/Email%20Header%20Analysis%20for%20Phishing%20Attempts)
+- [Explore the phishing project »](https://github.com/JoleanMcPherson/Cybersecurity-Porfolio/blob/d2a810b756a0ba51a2d49579ce9cd4c0a04b8722/Email%20Header%20Analysis%20for%20Phishing%20Attempts)
 
 ---
 
