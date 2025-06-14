@@ -4,7 +4,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ## 🔐 Featured Projects
 
-### 1. 🐍 Honeypot Deployment (T-Pot / Cowrie)
+### 1. 🐍 Honeypot Deployment 
 - Simulated a public-facing server to capture malicious activity
 - Analyzed attacker behavior via log files
 - Tools used: Ubuntu, Docker, ELK stack
