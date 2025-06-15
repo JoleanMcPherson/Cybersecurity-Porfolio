@@ -40,7 +40,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 - Conducted a control gap analysis for a fictional SaaS company
 - Identified missing ISO 27001:2022 Annex A controls and remediation plan
 - Tools used: Google Sheets, markdown documentation, risk-based approach  
-- [View full gap assessment »](https://github.com/yourusername/iso-27001-gap-assessment)
+- [View full gap assessment »](https://github.com/joleanmcpherson/iso-27001-gap-assessment)
 
 ---
 
