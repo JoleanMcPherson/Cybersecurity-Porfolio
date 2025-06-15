@@ -36,6 +36,14 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
+### 5. 📊 ISO 27001 Gap Assessment (Mock Audit)
+- Conducted a control gap analysis for a fictional SaaS company
+- Identified missing ISO 27001:2022 Annex A controls and remediation plan
+- Tools used: Google Sheets, markdown documentation, risk-based approach  
+- [View full gap assessment »](https://github.com/yourusername/iso-27001-gap-assessment)
+
+---
+
 ## 📫 Contact
 - https://www.linkedin.com/in/jolean-mcpherson/
 - jolean.mcpherson@gmail.com
