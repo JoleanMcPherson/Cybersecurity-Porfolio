@@ -44,6 +44,15 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 
 ---
 
+### 6. 🎓 Security Awareness Training Program
+
+- Designed comprehensive quarterly training curriculum covering phishing, password security, and insider threats
+- Created cost-effective implementation strategy leveraging existing tools (SharePoint, ServiceNow GRC)
+- Developed measurable success metrics and budget analysis for lean vs. premium deployment options
+- [View training program proposal »]  
+
+---
+
 ## 📫 Contact
 - https://www.linkedin.com/in/jolean-mcpherson/
 - jolean.mcpherson@gmail.com
