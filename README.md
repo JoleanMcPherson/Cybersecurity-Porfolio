@@ -49,7 +49,7 @@ Welcome! This portfolio highlights hands-on projects demonstrating my skills in 
 - Designed comprehensive quarterly training curriculum covering phishing, password security, and insider threats
 - Created cost-effective implementation strategy leveraging existing tools (SharePoint, ServiceNow GRC)
 - Developed measurable success metrics and budget analysis for lean vs. premium deployment options
-- [View training program proposal »]  
+- [View training program proposal »](https://github.com/JoleanMcPherson/Cybersecurity-Porfolio/blob/2c36be3f8cc9895fa2762d3158445a1fc724d356/Security%20Awareness%20Training%20Program%20Proposal)
 
 ---
 
