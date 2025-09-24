@@ -1,4 +1,4 @@
-# 💼 Cybersecurity Analyst & IT GRC Portfolio
+# 💼 Cybersecurity Analyst, GRC and Communications Portfolio
 
 Welcome! This portfolio highlights hands-on projects demonstrating my skills in cybersecurity analysis, security awareness training, GRC, incident response, and IT auditing.
 
